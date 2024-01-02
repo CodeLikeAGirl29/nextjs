@@ -19,7 +19,7 @@ const About: NextComponentType = () => {
           my blog sometimes.
         </p>
 
-        <Link href="https://blog.anurag.tech" passHref>
+        <Link href="https://lindseyk.dev" passHref>
           <a
             className="mt-4 flex cursor-pointer flex-row items-center gap-1 font-jost text-xl text-gray-400 duration-100 hover:ml-2"
             target="_blank"
@@ -30,7 +30,7 @@ const About: NextComponentType = () => {
           </a>
         </Link>
 
-        <Link href="https://sponsor.anurag.tech" passHref>
+        <Link href="https://github.com/sponsors/CodeLikeAGirl29" passHref>
           <a
             className="mt-4 flex cursor-pointer flex-row items-center gap-1 font-jost text-xl text-gray-400 duration-100 hover:ml-2"
             target="_blank"
